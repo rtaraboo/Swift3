@@ -1,0 +1,6 @@
+[submodule "swift3WeatherApp/-b"]
+	path = swift3WeatherApp/-b
+	url = https://github.com/Alamofire/Alamofire.git
+[submodule "swift3WeatherApp/Alamofire"]
+	path = swift3WeatherApp/Alamofire
+	url = https://github.com/Alamofire/Alamofire.git
